@@ -103,3 +103,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+glove.6B/glove.6B.100d.txt
+label_lookup.pkl
+model/rnn_glove.h5
+model/rnn_glove_additional.h5
+model/rnn_glove_additional_history.pkl
+model/rnn_glove_history.pkl
